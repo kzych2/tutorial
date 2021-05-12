@@ -1,0 +1,2 @@
+# tutorial
+z tutorialu isntalacja
